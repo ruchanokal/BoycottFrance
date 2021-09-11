@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/alegreya_sans_sc_black</item>
+        <item>@font/alegreya_sans_thin</item>
+        <item>@font/alike</item>
+        <item>@font/allerta</item>
+        <item>@font/almendra_bold</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/amarante</item>
+        <item>@font/amethysta</item>
+        <item>@font/aubrey</item>
+        <item>@font/bevan</item>
+        <item>@font/bungee</item>
+    </array>
+</resources>

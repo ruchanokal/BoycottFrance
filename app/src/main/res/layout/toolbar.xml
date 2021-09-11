@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#1A237E"
+    android:elevation="4dp"
+    android:id="@+id/toolbar"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    app:title="Boycott France"
+    app:titleTextAppearance="@style/Toolbar.TitleText"
+    android:paddingLeft="?android:attr/expandableListPreferredItemPaddingLeft">
+
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291952846150",
+    "firebase_url": "https://boycottfrance-ba1e5.firebaseio.com",
+    "project_id": "boycottfrance-ba1e5",
+    "storage_bucket": "boycottfrance-ba1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291952846150:android:bff4509422cbd105fe3147",
+        "android_client_info": {
+          "package_name": "com.ruchanokal.boycottfrance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291952846150-78lefr0c7b3mjj8ivggkr4r3hphnh6p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKra86Me1f3RSNGBfp2Q4oHx9SbAPCBBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291952846150-78lefr0c7b3mjj8ivggkr4r3hphnh6p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
